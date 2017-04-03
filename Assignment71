@@ -1,0 +1,14 @@
+package acadgild1;
+
+public class Assign71 {
+
+	public static void main(String[] args) {
+		int a=20;
+		String b="56";
+		String c=String.valueOf(a);
+		System.out.println(" "+c);
+		String ss=b.concat(c);
+		System.out.println(" "+ss);
+	}
+
+}
